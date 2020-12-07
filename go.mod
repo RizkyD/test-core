@@ -1,4 +1,4 @@
-module artemis-core
+module test-core
 
 go 1.15
 
