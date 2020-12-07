@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-func serve() {
+func Serve() {
 	argument := "dev"
 	if len(os.Args) != 1 {
 		argument = os.Args[1]
