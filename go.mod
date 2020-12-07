@@ -1,4 +1,4 @@
-module artemis-core
+module github.com/rizkyD/test-core
 
 go 1.15
 
